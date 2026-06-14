@@ -1,5 +1,6 @@
 {
   "name": "api-test",
+  "name": "test2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,5 +12,6 @@
   "devDependencies": {
     "@playwright/test": "^1.60.0",
     "@types/node": "^25.9.3"
+    "@types/node": "^25.9.2"
   }
 }
