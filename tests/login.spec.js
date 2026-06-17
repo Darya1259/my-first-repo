@@ -1,7 +1,7 @@
 // Импортируем 'test' и 'expect' из библиотеки Playwright
 const { test, expect } = require('@playwright/test');
 
-test.describe('Авторизация на Sauce Demo', () => {
+test.describe('Авторизация на Sauce Demo @ui', () => {
 
     test('Пользователь успешно входит в систему', async ({page})=>{
 
